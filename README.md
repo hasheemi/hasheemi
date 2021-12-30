@@ -7,6 +7,7 @@ im from Gresik, the small city in jawa timur indonesia
 - :satellite: I’m looking to collaborate on BELLSHADE 
 - 📫 How to reach me: email me at hasemiandika78@gmail.com 
 - ⚡ Fun fact: i like kamen rider  
+- :confused: I hate RegEx hehe
 
 
 ## My skill
